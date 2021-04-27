@@ -36,3 +36,9 @@ Once a network is build, what feature your studio provides and how can the user 
 those functions
 
 
+You can check the classification of the Petrinet through the subclassed Petrinet types. The iCore contains the appropriate plugin for each type.
+
+* Freechoice Petrinet
+* State Machine
+* Marked Graph
+* Workflow Net
