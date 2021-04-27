@@ -1,4 +1,12 @@
 {
-  "components": {},
-  "dependencies": {}
+  "components": {
+    "seeds": {
+      "Petrinet": {
+        "src": "src/seeds/Petrinet"
+      }
+    }
+  },
+  "dependencies": {
+    "seeds": {}
+  }
 }
