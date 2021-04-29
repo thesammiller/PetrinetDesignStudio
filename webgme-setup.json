@@ -4,9 +4,16 @@
       "Petrinet": {
         "src": "src/seeds/Petrinet"
       }
+    },
+    "plugins": {
+      "PetrinetPlugin": {
+        "src": "src/plugins/PetrinetPlugin",
+        "test": "test/plugins/PetrinetPlugin"
+      }
     }
   },
   "dependencies": {
-    "seeds": {}
+    "seeds": {},
+    "plugins": {}
   }
 }
