@@ -9,6 +9,22 @@
       "PetrinetPlugin": {
         "src": "src/plugins/PetrinetPlugin",
         "test": "test/plugins/PetrinetPlugin"
+      },
+      "FreeChoice": {
+        "src": "src/plugins/FreeChoice",
+        "test": "test/plugins/FreeChoice"
+      },
+      "StateMachine": {
+        "src": "src/plugins/StateMachine",
+        "test": "test/plugins/StateMachine"
+      },
+      "MarkedGraph": {
+        "src": "src/plugins/MarkedGraph",
+        "test": "test/plugins/MarkedGraph"
+      },
+      "WorkflowNet": {
+        "src": "src/plugins/WorkflowNet",
+        "test": "test/plugins/WorkflowNet"
       }
     }
   },
