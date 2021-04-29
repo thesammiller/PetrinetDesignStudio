@@ -29,15 +29,10 @@ Third, `git clone` this repository.
 Then, change into this directory and run `webgme start`. Finally, navigate to `http://localhost:8888` to start using pendes!
 
 ## Modeling
-How to start modeling once the studio is installed
+To create a new model, click on "Composition" and drag in a new Petrinet. You can then double click on the Petrinet to add Places and Transitions. You can automagically connect Places and Transitions through their icons. Please note: You cannot connect Place to Place or Transition to Transition!
 
 ## Studio Usage
-Once a network is build, what feature your studio provides and how can the user use
-those functions
-
-
-You can check the classification of the Petrinet through the subclassed Petrinet types. The iCore contains the appropriate plugin for each type.
-
+You can check the classification of the Petrinet through the plugin system:
 * Freechoice Petrinet
 * State Machine
 * Marked Graph
